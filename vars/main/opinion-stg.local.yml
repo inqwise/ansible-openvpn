@@ -1,3 +1,5 @@
 environment_name: opinion-stg
 s3_bucket_backup: opinion-stg-backup
 internal_base_url: https://internal-opinion-stg.s3.il-central-1.amazonaws.com
+public_domain: opinion-stg.inqwise.com
+private_domain: opinion-stg.local

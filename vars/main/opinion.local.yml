@@ -1,3 +1,5 @@
 environment_name: opinion-prod
 s3_bucket_backup: opinion-backup
 internal_base_url: https://internal-opinion.s3.amazonaws.com
+public_domain: opinion.inqwise.com
+private_domain: opinion.local

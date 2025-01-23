@@ -3,8 +3,6 @@ discord_webhook: https://discord.com/api/webhooks/{{ discord_message_webhook_id 
 discord_channel: "#notifications"
 public_dns: vpn
 private_dns: vpn
-public_domain: inqwise-stg.com
-private_domain: "opinion-stg.local"
 app_user: "openvpn"
 app_group: "{{ app_user }}"
 users_groups:
